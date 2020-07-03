@@ -1,7 +1,5 @@
 
-function getCalculation(){
-    var calculation = 
-}
+
 
 function getNumber(num){
     var result = document.getElementById("result");
